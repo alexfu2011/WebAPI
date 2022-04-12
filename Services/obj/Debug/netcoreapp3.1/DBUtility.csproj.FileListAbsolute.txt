@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\WebAPI\Services\bin\Debug\netcoreapp3.1\DBUtility.deps.json
+C:\Users\Administrator\source\repos\WebAPI\Services\bin\Debug\netcoreapp3.1\DBUtility.dll
+C:\Users\Administrator\source\repos\WebAPI\Services\bin\Debug\netcoreapp3.1\DBUtility.pdb
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.dll
+C:\Users\Administrator\source\repos\WebAPI\Services\obj\Debug\netcoreapp3.1\DBUtility.pdb

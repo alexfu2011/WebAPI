@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\DBUtility.dll
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\bin\Debug\netcoreapp3.1\DBUtility.pdb
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Administrator\source\repos\WebAPI\WebRepository\obj\Debug\netcoreapp3.1\BLL.pdb
